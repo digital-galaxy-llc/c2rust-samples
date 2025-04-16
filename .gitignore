@@ -1,0 +1,10 @@
+basic/basic/*
+funky/funky/*
+hash/hash/*
+memmgr/memmgr/*
+pragmas/pragmas/*
+year/year/*
+
+*.so
+*.py
+*.meta
