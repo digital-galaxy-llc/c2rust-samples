@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of C programming projects of varying sizes and complexities. These samples are specifically curated for training purposes for the [Sorcestone](https://github.com/your-project-link) project, which performs semi-automatic translation of C programs into Rust.
+This repository contains a collection of C programming projects of varying sizes and complexities. These samples are specifically curated for training purposes for the [Sorcestone](https://github.com/digital-galaxy-llc/sorcestone) project, which performs semi-automatic translation of C programs into Rust.
 
 ## Purpose
 
