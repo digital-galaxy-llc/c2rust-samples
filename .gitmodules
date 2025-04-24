@@ -1,0 +1,3 @@
+[submodule "libmcs"]
+	path = libmcs
+	url = https://gitlab.com/gtd-gmbh/libmcs.git
